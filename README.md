@@ -69,11 +69,25 @@ Decomposes the main system processes into more detailed subprocesses and illustr
 
 ![DFD Level 1](Diagrams/DFD/DFD-Level-1.png)
 
-#### Lower-Level DFD
+#### Lower-Level DFDs
 
-Provides a more detailed decomposition of selected processes to explain their internal operations and data flows.
+Provide further decomposition of selected system processes, presenting their internal operations, subprocesses, and detailed data flows.
 
-![Lower-Level DFD](Diagrams/DFD/Lower-Level-DFD.png)
+**Lower-Level DFD 1**
+
+![Lower-Level DFD 1](Diagrams/DFD/Lower-Level/Lower-Level-1.png)
+
+**Lower-Level DFD 2**
+
+![Lower-Level DFD 2](Diagrams/DFD/Lower-Level/Lower-Level-2.png)
+
+**Lower-Level DFD 3**
+
+![Lower-Level DFD 3](Diagrams/DFD/Lower-Level/Lower-Level-3.png)
+
+**Lower-Level DFD 4**
+
+![Lower-Level DFD 4](Diagrams/DFD/Lower-Level/Lower-Level-4.png)
 
 ### 4.3 Transaction Diagram
 
@@ -153,7 +167,12 @@ Smart-Traffic-Manager-STM/
 │   ├── DFD/
 │   │   ├── DFD-Level-0.png
 │   │   ├── DFD-Level-1.png
-│   │   └── Lower-Level-DFD.png
+│   │   │
+│   │   └── Lower-Level/
+│   │       ├── Lower-Level-1.png
+│   │       ├── Lower-Level-2.png
+│   │       ├── Lower-Level-3.png
+│   │       └── Lower-Level-4.png
 │   │
 │   ├── Transaction-Diagram.png
 │   │
@@ -190,6 +209,8 @@ Developed as part of an academic project in System Analysis and Design.
 
 ---
 
-**Smart Traffic Manager (STM)**
-
-*From Requirements Analysis to System Design.*
+<p align="center">
+  <strong>Smart Traffic Manager (STM)</strong>
+  <br>
+  <em>From Requirements Analysis to System Design.</em>
+</p>
