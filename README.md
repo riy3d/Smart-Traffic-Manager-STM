@@ -343,7 +343,7 @@ This project was developed collaboratively as part of an academic project in Sys
 
 * **Riyad Ayman**
 * **Zaid El-Bahgy**
-* **Mihamed El-Hadry**
+* **Mohamed El-Hadry**
 
 ---
 
